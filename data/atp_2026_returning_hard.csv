@@ -1,0 +1,100 @@
+Rk,Player,M,RPW,RPW-InP,vAce%,vDF%,v1st%,v2nd%,Brk%,Pts/RG,PtsW/RG,MdOppRk,MnOppRk,Tour,Season,Surface,Stat Type
+1,Alexander Zverev,47,35.4,36.4,8.5,3.2,26.8,51.0,19.0,6.5,2.3,35.0,50.0,ATP,2026,Hard,Returning
+2,Jannik Sinner,21,39.8,40.4,7.0,3.7,31.6,55.3,27.8,6.6,2.6,31.0,39.1,ATP,2026,Hard,Returning
+3,Carlos Alcaraz,40,41.2,42.0,5.6,2.6,33.8,54.3,28.8,6.9,2.8,30.0,36.3,ATP,2026,Hard,Returning
+4,Ben Shelton,43,34.0,34.1,8.0,4.0,25.7,48.6,17.6,6.3,2.1,39.0,47.9,ATP,2026,Hard,Returning
+5,Daniil Medvedev,54,40.7,41.3,4.7,2.3,33.0,54.5,28.8,6.6,2.7,44.0,72.6,ATP,2026,Hard,Returning
+6,Flavio Cobolli,32,35.3,37.2,8.9,2.4,27.3,47.7,18.0,6.5,2.3,69.0,85.1,ATP,2026,Hard,Returning
+7,Arthur Fils,42,35.9,37.3,9.5,3.5,27.2,50.3,20.9,6.6,2.4,37.0,49.6,ATP,2026,Hard,Returning
+8,Frances Tiafoe,43,35.5,38.6,13.8,3.6,25.7,51.7,21.4,6.1,2.2,41.0,57.6,ATP,2026,Hard,Returning
+9,Alex De Minaur,43,38.2,39.5,7.8,2.9,29.5,52.1,22.7,6.6,2.5,40.5,66.4,ATP,2026,Hard,Returning
+10,Taylor Fritz,48,35.4,36.9,9.5,3.1,26.1,51.3,16.0,6.6,2.3,43.5,60.5,ATP,2026,Hard,Returning
+11,Rafael Jodar,37,38.3,39.0,6.9,3.3,30.3,51.6,25.8,6.5,2.5,30.0,58.4,ATP,2026,Hard,Returning
+12,Novak Djokovic,21,36.6,39.5,12.0,3.0,27.8,52.4,18.9,6.6,2.4,42.5,43.4,ATP,2026,Hard,Returning
+13,Tommy Paul,47,37.5,39.2,9.6,3.4,29.8,51.2,22.7,6.5,2.4,42.0,52.4,ATP,2026,Hard,Returning
+14,Felix Auger Aliassime,32,36.0,37.3,7.7,2.6,29.9,46.4,19.5,6.4,2.3,49.5,72.3,ATP,2026,Hard,Returning
+15,Jiri Lehecka,43,36.3,36.8,7.5,3.6,29.4,48.4,20.1,6.5,2.3,47.0,77.2,ATP,2026,Hard,Returning
+16,Jakub Mensik,42,37.2,37.5,6.0,3.0,30.2,48.7,21.6,6.5,2.4,52.0,72.2,ATP,2026,Hard,Returning
+17,Alejandro Davidovich Fokina,27,35.5,39.7,14.8,2.7,27.0,51.6,19.1,6.3,2.2,47.0,60.3,ATP,2026,Hard,Returning
+18,Casper Ruud,29,33.0,34.7,11.6,3.5,26.1,45.0,16.4,6.1,2.0,49.0,52.1,ATP,2026,Hard,Returning
+19,Brandon Nakashima,42,33.2,34.8,12.2,4.0,23.9,49.6,16.3,6.3,2.1,43.0,48.9,ATP,2026,Hard,Returning
+20,Francisco Cerundolo,31,37.5,37.8,7.1,3.9,28.5,51.7,23.4,6.3,2.4,44.0,95.3,ATP,2026,Hard,Returning
+21,Luciano Darderi,27,35.5,37.3,12.9,4.8,26.3,50.7,19.6,6.3,2.2,81.0,81.9,ATP,2026,Hard,Returning
+22,Learner Tien,38,37.0,38.6,9.2,3.2,28.2,51.9,22.4,6.5,2.4,43.5,54.2,ATP,2026,Hard,Returning
+23,Andrey Rublev,32,36.6,38.4,9.8,3.3,29.4,49.2,19.1,6.7,2.5,47.5,66.0,ATP,2026,Hard,Returning
+24,Karen Khachanov,35,34.7,35.5,9.0,3.7,24.9,50.6,19.6,6.3,2.2,49.0,69.1,ATP,2026,Hard,Returning
+25,Lorenzo Musetti,32,38.9,39.9,6.3,2.6,29.4,55.1,25.4,6.6,2.6,35.5,58.6,ATP,2026,Hard,Returning
+26,Alexander Bublik,29,33.3,34.7,9.9,3.2,25.1,47.5,15.2,6.3,2.1,54.0,64.0,ATP,2026,Hard,Returning
+27,Valentin Vacherot,38,33.1,33.9,8.9,3.4,26.1,46.5,16.2,6.2,2.1,46.0,109.5,ATP,2026,Hard,Returning
+28,Alexander Blockx,11,35.4,34.6,5.7,4.2,27.6,47.4,20.1,6.3,2.2,44.5,53.0,ATP,2026,Hard,Returning
+29,Tomas Martin Etcheverry,25,33.5,34.9,10.4,3.4,26.8,45.2,15.7,6.4,2.1,48.0,59.4,ATP,2026,Hard,Returning
+30,Hubert Hurkacz,35,32.8,33.9,8.9,2.9,26.3,44.8,14.1,6.4,2.1,43.0,91.9,ATP,2026,Hard,Returning
+31,Alejandro Tabilo,25,33.9,35.8,12.6,4.1,25.0,48.9,16.0,6.2,2.1,46.0,55.4,ATP,2026,Hard,Returning
+32,Ignacio Buse,16,38.6,39.0,5.8,3.0,28.7,55.0,26.6,6.4,2.5,54.0,61.8,ATP,2026,Hard,Returning
+33,Arthur Fery,20,35.5,35.9,8.4,4.0,28.1,47.7,18.6,6.4,2.3,61.5,98.7,ATP,2026,Hard,Returning
+34,Luca Van Assche,16,35.0,36.6,9.8,3.0,26.7,50.5,17.6,6.5,2.3,41.5,53.8,ATP,2026,Hard,Returning
+35,Alex Michelsen,41,36.6,37.7,9.1,3.7,27.5,51.2,20.5,6.5,2.4,34.0,59.9,ATP,2026,Hard,Returning
+36,Stefanos Tsitsipas,39,34.2,34.6,7.5,3.3,26.4,47.8,16.2,6.4,2.2,39.0,92.3,ATP,2026,Hard,Returning
+37,Jan Lennard Struff,29,33.8,35.8,13.6,4.4,24.3,49.2,16.6,6.2,2.1,52.0,69.0,ATP,2026,Hard,Returning
+38,Matteo Arnaldi,15,34.4,35.5,7.4,2.4,26.7,46.5,16.0,6.2,2.1,61.0,62.6,ATP,2026,Hard,Returning
+39,Ugo Humbert,31,34.1,34.1,7.6,3.9,26.6,48.2,14.9,6.3,2.2,37.0,59.5,ATP,2026,Hard,Returning
+40,Botic Van De Zandschulp,36,37.2,37.4,8.2,4.6,28.6,51.7,20.6,6.5,2.4,37.5,80.1,ATP,2026,Hard,Returning
+41,Nuno Borges,35,34.3,36.3,11.4,3.4,26.8,46.8,17.8,6.2,2.1,40.0,76.1,ATP,2026,Hard,Returning
+42,Daniel Merida Aguilar,16,38.3,37.5,5.2,4.3,29.0,53.0,27.3,6.4,2.5,41.5,52.3,ATP,2026,Hard,Returning
+43,Matteo Berrettini,20,32.5,33.2,7.2,2.5,26.1,44.5,12.8,6.5,2.1,29.0,42.6,ATP,2026,Hard,Returning
+44,Zizou Bergs,30,35.4,35.2,7.7,4.6,27.1,48.6,17.7,6.6,2.3,45.0,73.8,ATP,2026,Hard,Returning
+45,Quentin Halys,32,33.8,36.0,11.4,2.9,26.4,47.7,15.3,6.4,2.2,35.0,101.0,ATP,2026,Hard,Returning
+46,Joao Fonseca,12,34.9,35.4,10.1,4.7,25.4,50.5,18.9,6.3,2.2,46.0,59.8,ATP,2026,Hard,Returning
+47,Arthur Gea,22,39.0,39.2,6.3,3.7,31.5,50.2,26.4,6.6,2.6,58.5,66.7,ATP,2026,Hard,Returning
+48,Mariano Navone,21,34.3,34.8,9.1,4.1,25.3,47.6,15.0,6.4,2.2,40.0,51.5,ATP,2026,Hard,Returning
+49,Tallon Griekspoor,30,30.6,33.9,15.4,2.9,20.9,48.8,13.1,5.9,1.8,36.0,59.6,ATP,2026,Hard,Returning
+50,Denis Shapovalov,33,37.9,36.9,3.8,3.8,30.6,50.3,24.3,6.4,2.4,64.0,72.4,ATP,2026,Hard,Returning
+51,Thiago Agustin Tirante,22,34.2,34.4,6.3,3.1,27.1,46.0,14.5,6.5,2.2,67.0,113.8,ATP,2026,Hard,Returning
+52,Sebastian Baez,27,37.1,39.7,11.4,3.3,28.0,53.4,23.4,6.2,2.3,51.0,78.6,ATP,2026,Hard,Returning
+53,Cameron Norrie,34,36.8,38.7,10.8,3.7,29.0,49.0,22.1,6.4,2.3,65.5,64.2,ATP,2026,Hard,Returning
+54,Juan Manuel Cerundolo,19,32.3,32.6,8.3,3.6,25.0,45.8,16.0,6.1,2.0,54.5,85.0,ATP,2026,Hard,Returning
+55,Raphael Collignon,14,35.5,37.0,9.3,3.1,28.3,46.9,17.9,6.6,2.3,39.5,98.4,ATP,2026,Hard,Returning
+56,Adolfo Daniel Vallejo,15,36.7,38.0,8.7,3.2,28.7,49.5,24.7,6.0,2.2,66.0,112.0,ATP,2026,Hard,Returning
+57,Jaime Faria,16,32.8,33.4,6.6,2.4,26.7,43.2,16.5,6.1,2.0,74.0,68.1,ATP,2026,Hard,Returning
+58,Arthur Rinderknech,25,32.1,32.1,8.0,3.8,23.8,44.5,14.8,6.2,2.0,48.5,69.3,ATP,2026,Hard,Returning
+59,Rinky Hijikata,30,35.3,36.9,11.8,4.5,25.3,51.9,19.4,6.4,2.3,41.5,65.6,ATP,2026,Hard,Returning
+60,Tomas Machac,24,34.6,36.7,9.9,2.6,26.9,48.3,19.7,6.2,2.1,41.5,122.2,ATP,2026,Hard,Returning
+61,Adrian Mannarino,33,33.7,36.2,13.7,3.8,24.0,49.9,15.9,6.2,2.1,50.0,75.5,ATP,2026,Hard,Returning
+62,Mattia Bellucci,21,33.7,34.7,9.1,3.4,24.7,49.4,15.4,6.4,2.2,48.0,65.4,ATP,2026,Hard,Returning
+63,Fabian Marozsan,26,36.3,37.2,8.8,3.7,28.1,48.6,19.0,6.4,2.3,82.0,140.6,ATP,2026,Hard,Returning
+64,Miomir Kecmanovic,28,34.9,37.0,13.8,4.8,24.2,52.1,18.6,6.3,2.2,59.5,65.7,ATP,2026,Hard,Returning
+65,Camilo Ugo Carabelli,13,29.4,30.8,12.8,3.6,20.2,45.3,12.0,5.9,1.7,54.0,68.5,ATP,2026,Hard,Returning
+66,Facundo Diaz Acosta,4,32.3,35.1,15.3,4.0,19.2,53.7,11.1,6.5,2.1,51.5,70.3,ATP,2026,Hard,Returning
+67,Yannick Hanfmann,14,34.2,35.3,9.9,3.7,27.4,45.8,14.0,6.4,2.2,54.5,69.5,ATP,2026,Hard,Returning
+68,Ethan Quinn,11,33.9,35.1,11.6,4.4,26.0,46.2,18.3,6.3,2.2,55.0,79.3,ATP,2026,Hard,Returning
+69,Vit Kopriva,11,35.5,37.0,11.0,4.0,27.3,49.2,20.3,6.2,2.2,50.0,245.2,ATP,2026,Hard,Returning
+70,Jaume Munar,19,37.6,37.4,5.8,3.7,29.6,49.8,22.9,6.7,2.5,35.0,51.1,ATP,2026,Hard,Returning
+71,Martin Landaluce,15,34.9,34.8,8.8,4.9,23.9,51.1,19.6,6.5,2.3,59.0,68.9,ATP,2026,Hard,Returning
+72,Alex Molcan,8,32.8,38.7,19.0,2.5,25.1,48.4,19.3,5.8,1.9,49.0,58.4,ATP,2026,Hard,Returning
+73,Daniel Altmaier,21,31.3,31.7,9.1,3.7,21.8,48.0,11.2,6.3,2.0,58.0,65.7,ATP,2026,Hard,Returning
+74,Roman Safiullin,11,35.0,36.8,10.5,3.2,28.0,48.0,18.5,6.2,2.2,49.0,89.4,ATP,2026,Hard,Returning
+75,Terence Atmane,26,30.9,31.8,9.2,3.0,21.4,45.9,14.6,5.9,1.8,40.5,52.8,ATP,2026,Hard,Returning
+76,James Duckworth,27,33.5,34.4,9.6,3.7,24.8,47.7,15.8,6.5,2.2,63.0,108.7,ATP,2026,Hard,Returning
+77,Pablo Carreno Busta,16,35.0,36.3,12.7,5.1,22.2,52.8,18.5,6.3,2.2,33.0,38.8,ATP,2026,Hard,Returning
+78,Zachary Svajda,15,33.1,34.6,12.5,4.4,23.4,49.4,16.6,6.2,2.1,57.0,76.7,ATP,2026,Hard,Returning
+79,Roman Andres Burruchaga,3,32.8,34.5,13.4,4.5,24.1,45.5,11.9,6.4,2.1,50.0,77.3,ATP,2026,Hard,Returning
+80,Hamad Medjedovic,14,30.8,33.8,15.7,3.4,22.5,43.7,10.1,6.3,1.9,54.0,65.0,ATP,2026,Hard,Returning
+81,Titouan Droguet,10,32.8,33.9,10.3,3.7,24.7,47.3,12.2,6.7,2.2,57.0,58.9,ATP,2026,Hard,Returning
+82,Kamil Majchrzak,24,35.3,37.0,13.2,5.0,25.3,52.9,16.8,6.6,2.3,55.5,67.7,ATP,2026,Hard,Returning
+83,Aleksandar Kovacevic,30,28.0,31.3,17.9,3.2,19.5,42.4,8.3,5.9,1.6,43.0,101.6,ATP,2026,Hard,Returning
+84,Coleman Wong,19,33.2,34.8,10.1,2.9,25.7,44.8,16.1,6.1,2.0,48.0,86.3,ATP,2026,Hard,Returning
+85,Kyrian Jacquet,13,31.7,33.6,10.6,2.6,24.6,44.7,11.0,6.3,2.0,64.0,67.1,ATP,2026,Hard,Returning
+86,Nikoloz Basilashvili,14,35.1,37.4,10.8,2.7,26.6,51.4,17.3,6.5,2.3,66.0,62.4,ATP,2026,Hard,Returning
+87,Jacob Fearnley,13,38.4,39.5,8.5,3.8,30.6,51.1,25.2,6.5,2.5,64.0,70.9,ATP,2026,Hard,Returning
+88,Marco Trungelliti,7,34.7,34.3,12.7,7.3,22.7,49.0,13.9,6.3,2.2,137.0,173.4,ATP,2026,Hard,Returning
+89,Dino Prizmic,11,34.9,36.1,8.2,2.8,26.6,46.9,17.6,6.3,2.2,83.0,78.6,ATP,2026,Hard,Returning
+90,Damir Dzumhur,12,36.6,37.5,10.5,4.8,27.2,51.2,22.2,6.4,2.3,75.0,126.5,ATP,2026,Hard,Returning
+91,Benjamin Bonzi,15,37.2,38.9,10.5,3.8,29.5,48.5,20.8,6.6,2.5,50.0,47.5,ATP,2026,Hard,Returning
+92,Bu Yunchaokete,11,33.3,36.7,13.6,2.5,24.2,46.9,18.3,6.4,2.1,53.0,63.6,ATP,2026,Hard,Returning
+93,Jenson Brooksby,25,36.4,36.5,7.9,4.3,27.8,50.9,18.9,6.4,2.3,49.0,90.0,ATP,2026,Hard,Returning
+94,Marcos Giron,21,35.3,37.5,12.1,3.8,26.4,52.3,21.1,6.2,2.2,52.0,106.6,ATP,2026,Hard,Returning
+95,Toby Samuel,4,35.3,36.1,7.8,3.2,30.2,46.4,21.6,5.9,2.1,49.5,80.3,ATP,2026,Hard,Returning
+96,Adam Walton,19,34.3,35.9,11.3,3.9,28.0,44.7,19.2,6.2,2.1,74.0,67.1,ATP,2026,Hard,Returning
+97,Marin Cilic,19,34.3,37.6,13.6,2.8,23.4,53.8,16.9,6.3,2.1,40.0,52.9,ATP,2026,Hard,Returning
+99,Zsombor Piros,2,26.8,26.9,19.7,7.0,10.6,58.3,0.0,5.9,1.6,428.0,428.0,ATP,2026,Hard,Returning
+100,Michael Zheng,15,37.5,36.7,7.8,5.8,28.0,50.7,23.4,6.2,2.3,63.0,70.9,ATP,2026,Hard,Returning
